@@ -13,6 +13,8 @@
     * Fullstack Js Stack 👨‍💻.
 
     * Data Engineering 👨‍💻.
+    
+    * Backend with Java 👨‍💻.
 
     * Self-Development Tools 🐱‍🏍.
 
